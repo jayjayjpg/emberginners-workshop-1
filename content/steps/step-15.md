@@ -1,6 +1,6 @@
 ---
 title: Step 6
-order: 6
+order: 15
 ---
 
 # What are actions?

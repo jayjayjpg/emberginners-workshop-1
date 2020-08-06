@@ -1,6 +1,6 @@
 ---
 title: Step 5
-order: 5
+order: 14
 ---
 
 # An Intro to Components in Ember

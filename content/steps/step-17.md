@@ -1,6 +1,6 @@
 ---
 title: Step 8
-order: 8
+order: 17
 ---
 
 # What are Arrays?

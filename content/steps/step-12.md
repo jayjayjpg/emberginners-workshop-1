@@ -1,6 +1,6 @@
 ---
 title: Step 3
-order: 3
+order: 12
 ---
 
 # An Intro to Routing in Ember

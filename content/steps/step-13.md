@@ -1,6 +1,6 @@
 ---
 title: Step 4
-order: 4
+order: 13
 ---
 
 # What are Addons?
